@@ -38,3 +38,6 @@ def circulate():
 
 
 ## Result:
+Thus the python program to circulate the n variables using function concept is obtained.
+
+
